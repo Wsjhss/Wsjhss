@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Jasmine 🌼
+I'm an inspired and visual-oriented Software Engineering student, passionate about merging art, design and programming.
+Welcome to my GitHub profile!
 
 <!--
 **Wsjhss/Wsjhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
