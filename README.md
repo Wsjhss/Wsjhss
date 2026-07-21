@@ -9,8 +9,8 @@
   <a href="https://isjasz.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-red?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io Badge"/>
   </a>
-  <a href="https://isjasz.carrd.co">
-    <img src="https://img.shields.io/badge/Art_Portfolio-purple?style=for-the-badge&logo=carrd&logoColor=white" alt="Art Portfolio Badge"/>
+  <a href="https://www.artstation.com/isjasz">
+    <img src="https://img.shields.io/badge/ArtStation-purple?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation Badge"/>
   </a>
 </div>
 
@@ -23,16 +23,26 @@ Welcome to my GitHub profile!
 </div>
 
 ## 🍵 About me
-- 🏜️ Currently organizing and developing a large-scale collaborative RPG, coordinating application-based teams from the community.
-- 🎮 Interested in game development, technical art, front end development (UI/UX & Graphic design), data science, and data visualization.
-- 🎨 In my free time, I draw, make comics, and enjoy playing video games.
+- 🎮 Interested in game development, technical art, front end development (UI/UX & Graphic Design), data science, and data visualization.
+- 🎨 In my free time, I draw, play games, and sometimes make comics. I also enjoy musicals ♪
+- 🌹 Favorite game: currently the Hades & Hades 2 franchise!
+
+## 🔦 Tech Stack
+- 🚧 under construction 
 
 ## ✨ Projects and Contributions
+### 📊 ML and Data 
+- As a data science intern at **Ubisoft Montreal**, contributed to development and deployment of game purchase predictors and marketing item classifiers related to the Assassin's Creed franchise and Rainbow Six Siege.
 - Contributed to [MyoSuite](https://sites.google.com/view/myosuite): a contact-rich Python framework for musculoskeletal motor control.
+  -   In a team of 2, a musculoskeletal human + wheelchair model was developed and integrated into the framework for reinforcement learning research, with custom reward functions and trajectory tracking for hand–wheel interactions.
+  -   🔗 Repository: [https://github.com/olibreadstick/myosuite](https://github.com/olibreadstick/myosuite)
+- [Life Below Water](https://devpost.com/software/placeholder-title-jxc3ru): a story told through data journalism about the impact of global warming on marine species.
+### 🕺 Game Development
+- [Pose Pose Execution](https://flyingsheep22.itch.io/pose-pose-execution): a versus fighting game that features infinite dance battles and won the **Best User Experience** and **Audience's Choice** Awards out of 20+ entries in the **Ubisoft Game Lab Competition 2026**.
 - [Underfished](https://averageosiris.itch.io/underfished): a 3D horror fishing game that won the **Best Game Award** at the CodeJam 15 Hackathon.
 - [Pas de Deux: The Chaos Ballet](https://typh0n4.itch.io/pas-de-deux-the-chaos-ballet): a cooperative rhythm game that won the **Jury's Special Award** for "Most Fun and Enjoyable Game" out of 26 entries in the **Ubisoft Game Lab Competition 2025**.
 - [proDUCKtive](https://devpost.com/software/producktive?ref_content=my-projects-tab&ref_feature=my_projects): a desktop overlay companion (the duck you see on my profile🦆) that tracks tasks, handles Pomodoro sessions, and periodically provides self-care reminders.
-- [Life Below Water](https://devpost.com/software/placeholder-title-jxc3ru): a story told through data journalism about the impact of global warming on marine species.
+- 🏜️WIP: Currently organizing and developing a large-scale collaborative RPG, coordinating application-based teams from the community.
 
 ## 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/jasminewang-jh/)
