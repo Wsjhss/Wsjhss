@@ -24,17 +24,23 @@ Welcome to my GitHub profile!
 
 ## 🍵 About me
 - 🎮 Interested in game development, technical art, front end development (UI/UX & Graphic Design), data science, and data visualization.
-- 🎨 In my free time, I draw, play games, and sometimes make comics. I also enjoy musicals ♪
-- 🌹 Favorite game: currently the Hades & Hades 2 franchise!
+- 🎨 In my free time, I draw, play games, and sometimes make comics. I also like musicals ♪
+- 🌹 Favorite game: currently the Hades & Hades 2 franchise
 
 ## 🔦 Tech Stack
-- 🚧 under construction 
+- 🚧 Under construction 🚧
+- Programming & Data: Python, Java, C, C#, Bash, SQL (with Databricks and Snowflake)
+- AI, Machine Learning & Reinforcement Learning: PyTorch, Stable-Baselines3, MuJoCo, Keras, Tensorflow, Sparks, MLFlow, Scikit-learn
+- Web & Frontend: HTML/CSS, JavaScript
+- Tools: Git, GitLab, VS Code, Unity
 
 ## ✨ Projects and Contributions
 ### 📊 ML and Data 
-- As a data science intern at **Ubisoft Montreal**, contributed to development and deployment of game purchase predictors and marketing item classifiers related to the Assassin's Creed franchise and Rainbow Six Siege.
+- As a data science intern at **Ubisoft Montreal** 🕹️, working with big data in Snowflake and Databricks:
+  -   Built, trained and deployed purchase prediction models for Assassin’s Creed DLC purchases for marketing use.
+  -   Built, trained and deployed item recommender models for Rainbow Six Siege's in-game promotions.
 - Contributed to [MyoSuite](https://sites.google.com/view/myosuite): a contact-rich Python framework for musculoskeletal motor control.
-  -   In a team of 2, a musculoskeletal human + wheelchair model was developed and integrated into the framework for reinforcement learning research, with custom reward functions and trajectory tracking for hand–wheel interactions.
+  -   In a team of 2, developed and integrated a musculoskeletal human + wheelchair model into the framework for reinforcement learning research, with custom reward functions and trajectory tracking for hand–wheel interactions.
   -   🔗 Repository: [https://github.com/olibreadstick/myosuite](https://github.com/olibreadstick/myosuite)
 - [Life Below Water](https://devpost.com/software/placeholder-title-jxc3ru): a story told through data journalism about the impact of global warming on marine species.
 ### 🕺 Game Development
