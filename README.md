@@ -54,6 +54,7 @@ Welcome to my GitHub profile!
 - [Pas de Deux: The Chaos Ballet](https://typh0n4.itch.io/pas-de-deux-the-chaos-ballet): a cooperative rhythm game created under 10 weeks that won the **Jury's Special Award** for "Most Fun and Enjoyable Game" out of 26 entries in the **Ubisoft Game Lab Competition 2025**.
 - [proDUCKtive](https://devpost.com/software/producktive?ref_content=my-projects-tab&ref_feature=my_projects): a desktop overlay companion (the duck you see on my profile🦆) that tracks tasks, handles Pomodoro sessions, and periodically provides self-care reminders.
 - 🏜️WIP: Currently organizing and developing a large-scale collaborative RPG, coordinating application-based teams from the community.
+
 View all the games I've contributed to on my [Itch.io](https://isjasz.itch.io/) page!
 
 ## 📫 How to reach me: 
