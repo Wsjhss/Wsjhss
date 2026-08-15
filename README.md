@@ -23,32 +23,38 @@ Welcome to my GitHub profile!
 </div>
 
 ## 🍵 About me
-- 🎮 Interested in game development, technical art, front end development (UI/UX & Graphic Design), data science, and data visualization.
+- 🎮 Interested in game development, technical art, front-end development (UI/UX & Graphic Design), data science, and data visualization.
 - 🎨 In my free time, I draw, play games, and sometimes make comics. I also like musicals ♪
 - 🌹 Favorite game: currently the Hades & Hades 2 franchise
 
 ## 🔦 Tech Stack
-- 🚧 Under construction 🚧
-- Programming & Data: Python, Java, C, C#, Bash, SQL (with Databricks and Snowflake)
-- AI, Machine Learning & Reinforcement Learning: PyTorch, Stable-Baselines3, MuJoCo, Keras, Tensorflow, Sparks, MLFlow, Scikit-learn
-- Web & Frontend: HTML/CSS, JavaScript
-- Tools: Git, GitLab, VS Code, Unity
+- Programming: Python, Java, C#, C++, C, JavaScript, HTML/CSS, Bash, SQL, Gherkin
+- Data/ML: TensorFlow, Keras, scikit-learn, MLflow, PySpark, Databricks, Snowflake, Jupyter
+- Game/Design: Unity, Blender, FreeCAD, Blockbench, Figma
+- Tools: Git, GitHub, GitLab, VS Code, IntelliJ, Eclipse, Confluence, Teams
 
 ## ✨ Projects and Contributions
 ### 📊 ML and Data 
 - As a data science intern at **Ubisoft Montreal** 🕹️, working with big data in Snowflake and Databricks:
-  -   Built, trained and deployed purchase prediction models for Assassin’s Creed DLC purchases for marketing use.
-  -   Built, trained and deployed item recommender models for Rainbow Six Siege's in-game promotions.
+  -   Collaborated with interns and developers in Paris to retrain, deploy, monitor, and iteratively improve the Rainbow Six Siege in-game store recommender using A/B test results.
+  -   Built, trained, and deployed machine learning models to predict Assassin’s Creed DLC purchases for marketing applications.
+  -   Developed data workflows using Snowflake, Databricks, Python ML libraries, and Databricks deployment pipelines to support data migration and ML deployment.
+
 - Contributed to [MyoSuite](https://sites.google.com/view/myosuite): a contact-rich Python framework for musculoskeletal motor control.
   -   In a team of 2, developed and integrated a musculoskeletal human + wheelchair model into the framework for reinforcement learning research, with custom reward functions and trajectory tracking for hand–wheel interactions.
   -   🔗 Repository: [https://github.com/olibreadstick/myosuite](https://github.com/olibreadstick/myosuite)
+
 - [Life Below Water](https://devpost.com/software/placeholder-title-jxc3ru): a story told through data journalism about the impact of global warming on marine species.
+
 ### 🕺 Game Development
-- [Pose Pose Execution](https://flyingsheep22.itch.io/pose-pose-execution): a versus fighting game that features infinite dance battles and won the **Best User Experience** and **Audience's Choice** Awards out of 20+ entries in the **Ubisoft Game Lab Competition 2026**.
+
+- <a href="https://isjasz.itch.io/justice-is-blank">Justice is [BLANK]</a>: a Mad Libs-style arcade game where players play as an ant attorney and craft absurd sentences to defend clients. Ranked top 10% overall among 10.5K GTMK Game Jam entries and top 0.7% in Artwork.
+- [Pose Pose Execution](https://flyingsheep22.itch.io/pose-pose-execution): a 1v1 strategy dance battle game created under 10 weeks that won the **Best User Experience** and **Audience's Choice** Awards out of 20+ entries in the **Ubisoft Game Lab Competition 2026**.
 - [Underfished](https://averageosiris.itch.io/underfished): a 3D horror fishing game that won the **Best Game Award** at the CodeJam 15 Hackathon.
-- [Pas de Deux: The Chaos Ballet](https://typh0n4.itch.io/pas-de-deux-the-chaos-ballet): a cooperative rhythm game that won the **Jury's Special Award** for "Most Fun and Enjoyable Game" out of 26 entries in the **Ubisoft Game Lab Competition 2025**.
+- [Pas de Deux: The Chaos Ballet](https://typh0n4.itch.io/pas-de-deux-the-chaos-ballet): a cooperative rhythm game created under 10 weeks that won the **Jury's Special Award** for "Most Fun and Enjoyable Game" out of 26 entries in the **Ubisoft Game Lab Competition 2025**.
 - [proDUCKtive](https://devpost.com/software/producktive?ref_content=my-projects-tab&ref_feature=my_projects): a desktop overlay companion (the duck you see on my profile🦆) that tracks tasks, handles Pomodoro sessions, and periodically provides self-care reminders.
 - 🏜️WIP: Currently organizing and developing a large-scale collaborative RPG, coordinating application-based teams from the community.
+View all the games I've contributed to on my [Itch.io](https://isjasz.itch.io/) page!
 
 ## 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/jasminewang-jh/)
